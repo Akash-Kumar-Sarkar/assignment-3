@@ -8,3 +8,11 @@ body {
 .image-filter {
     filter: brightness(50%);
 }
+
+.ready-section {
+    background-color: #289bde;
+}
+
+.register {
+    color: #25a2eb;
+}
