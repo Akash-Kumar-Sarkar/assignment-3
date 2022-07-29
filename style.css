@@ -16,3 +16,11 @@ body {
 .register {
     color: #25a2eb;
 }
+
+.prev-icon {
+    background-color: rgb(58, 19, 233);
+}
+
+.next-icon {
+    background-color: rgb(58, 19, 233);
+}
